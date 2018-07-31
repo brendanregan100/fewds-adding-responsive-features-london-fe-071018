@@ -48,5 +48,6 @@
     float: none;
   }
   .border-right{
-    border
+    border: 0;
   }
+}
